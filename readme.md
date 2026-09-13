@@ -18,7 +18,8 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
 ## Examples defying Silicon Valley’s obsolescence
 
-Compatibility verified on Windows 7 64-bit with CPU lacking SSE4 and AVX.
+Compatibility verified using a Windows 7 64-bit laptop.  
+No SSE4, no AVX. Updated via [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) through January 2026.
 
 ### Apps built by authors
 
