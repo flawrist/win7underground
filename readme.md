@@ -16,9 +16,9 @@ users pull down the blinds — their ad-blockers kill such peepers cold.
 <mark>Yet mechanics still sweat compiling and backporting for an exiled OS.  
 You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
-## Apps refusing to die on Silicon Valley’s schedule
+## Apps refusing to die on Microsoft’s schedule
 
-Compatibility verified on a Windows 7 64-bit laptop.  
+Compatibility verified on an IBM x61 running Windows 7 64-bit.  
 No SSE4, no AVX. Updated via [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) through January 2026.
 
 ### Official builds
@@ -64,8 +64,8 @@ No SSE4, no AVX. Updated via [Simplix](https://www.majorgeeks.com/files/details/
 * Croc
 * DNSCrypt
 * Doggo
-* Go
 * [FFMPEG](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
+* Go
 * Python
 * [r3dfox](https://github.com/Eclipse-Community/r3dfox)
 * Rclone
