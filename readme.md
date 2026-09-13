@@ -16,7 +16,7 @@ users pull down the blinds — their ad-blockers kill such peepers cold.
 <mark>Yet mechanics still sweat compiling and backporting for an exiled OS.  
 You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
-## Apps defying Silicon Valley’s forced obsolescence
+## Apps defying Silicon Valley’s obsolescence
 
 ### Examples built by authors
 
