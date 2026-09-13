@@ -15,8 +15,8 @@ The mainstream lines up like cattle to revere the next leaking upgrade,
 scorning the past as if chronology equals progress. But the mavericks?  
 They know software doesn't rot like milk in the sun. They see the forced  
 evictions and locked-out machines, leftover souls stripped of their tools.  
-Algorithms and alphabets don't expire just because the beast gets hungry.  
-A sturdy hammer keeps driving nails long after the warranty turns to dust.  
+<mark>Algorithms and alphabets don't expire just because the beast gets hungry.  
+A sturdy hammer keeps driving nails long after the warranty turns to dust.</mark>
 
 ### Examples built by authors
 
