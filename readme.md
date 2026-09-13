@@ -18,7 +18,7 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
 ## Apps refusing to die on Silicon Valley’s schedule
 
-Compatibility verified using a Windows 7 64-bit laptop.  
+Compatibility verified on a Windows 7 64-bit laptop.  
 No SSE4, no AVX. Updated via [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) through January 2026.
 
 ### Compiled by authors
