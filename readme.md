@@ -38,21 +38,21 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 * [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf) <sub><img src="https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf?style=flat-square"></sub>
 * [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) <sub><img src="https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=flat-square"></sub>
 * [Tixati](https://tixati.com/)
-* [UGrep](https://ugrep.com/) <sub><img src="https://img.shields.io/github/stars/Genivia/ugrep?style=flat-square"></sub>
+* [ugrep](https://ugrep.com/) <sub><img src="https://img.shields.io/github/stars/Genivia/ugrep?style=flat-square"></sub>
 * [VLC Media Player](https://www.videolan.org/) <sub><img src="https://img.shields.io/github/stars/videolan/vlc?style=flat-square"></sub>
 * [WavPack](https://github.com/dbry/wavpack)
 * [WinRAR](https://www.win-rar.com/)
 * [WinSCP](https://winscp.net/eng/index.php) <sub><img src="https://img.shields.io/sourceforge/dm/winscp?style=flat-square"></sub>
-* [XXHash](https://xxhash.com/) <sub><img src="https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square"></sub>
+* [xxHash](https://xxhash.com/) <sub><img src="https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square"></sub>
 * [Zstandard](https://github.com/facebook/zstd) <sub><img src="https://img.shields.io/github/stars/facebook/zstd?style=flat-square"></sub>
-* [ZPAQFranz](https://github.com/fcorbelli/zpaqfranz)
+* [zpaqfranz](https://github.com/fcorbelli/zpaqfranz)
 
 ### Examples ported by community
 
 * Go
 * [FFMPEG](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
 * Python
-* [R3dfox](https://github.com/Eclipse-Community/r3dfox)
+* [r3dfox](https://github.com/Eclipse-Community/r3dfox)
 * [Supermium](https://github.com/win32ss/supermium) <sub><img src="https://img.shields.io/github/stars/win32ss/supermium?style=flat-square"></sub>
 * [yt-dlp](https://github.com/nicolaasjan/yt-dlp)
 
