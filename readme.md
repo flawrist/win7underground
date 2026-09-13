@@ -16,12 +16,12 @@ users pull down the blinds — their ad-blockers kill such peepers cold.
 <mark>Yet mechanics still sweat compiling and backporting for an exiled OS.  
 You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
-## Examples defying Silicon Valley’s obsolescence
+## Apps refusing to die on Silicon Valley’s schedule
 
 Compatibility verified using a Windows 7 64-bit laptop.  
 No SSE4, no AVX. Updated via [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) through January 2026.
 
-### Apps built by authors
+### Compiled by authors
 
 * [7-Zip](https://7-zip.org/) <sub><img src="https://img.shields.io/sourceforge/dm/sevenzip?style=flat-square"></sub>
 * [AutoHotkey](https://github.com/autohotkey/autohotkey) <sub><img src="https://img.shields.io/github/stars/AutoHotkey/AutoHotkey?style=flat-square"></sub>
@@ -58,7 +58,7 @@ No SSE4, no AVX. Updated via [Simplix](https://www.majorgeeks.com/files/details/
 * [Zstandard](https://github.com/facebook/zstd) <sub><img src="https://img.shields.io/github/stars/facebook/zstd?style=flat-square"></sub>
 * [zpaqfranz](https://github.com/fcorbelli/zpaqfranz)
 
-### Apps ported by community
+### Compiled by community
 
 * Age
 * Croc
