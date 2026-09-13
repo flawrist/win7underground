@@ -1,5 +1,13 @@
 # Windows 7. Underground
 
+Microsoft is an IT hegemon. They support an OS until the profit runs dry.  
+The mainstream lines up like cattle to revere the next leaking upgrade,  
+scorning the past as if chronology equals progress. But the mavericks?  
+They know software doesn't rot like milk in the sun. They see the forced  
+evictions and locked-out machines, leftover souls stripped of their tools.  
+<mark>Algorithms and alphabets don't expire just because the beast gets hungry.  
+A sturdy hammer keeps driving nails long after the warranty turns to dust.</mark>
+
 Nobody can trace for sure how many souls survive on Windows 7.  
 OS usage stats rest on a JavaScript beacon pinned to a [million sites](https://gs.statcounter.com/faq#methodology).  
 Except heavy hitters don't feed it. No Amazon, no Facebook, no YouTube.  
@@ -9,14 +17,6 @@ users pull down the blinds — their ad-blockers kill such peepers cold.
 You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
 ## Apps defying Silicon Valley’s forced obsolescence
-
-Microsoft is an IT hegemon. They support an OS until the profit runs dry.  
-The mainstream lines up like cattle to revere the next leaking upgrade,  
-scorning the past as if chronology equals progress. But the mavericks?  
-They know software doesn't rot like milk in the sun. They see the forced  
-evictions and locked-out machines, leftover souls stripped of their tools.  
-<mark>Algorithms and alphabets don't expire just because the beast gets hungry.  
-A sturdy hammer keeps driving nails long after the warranty turns to dust.</mark>
 
 ### Examples built by authors
 
