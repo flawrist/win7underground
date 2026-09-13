@@ -18,7 +18,7 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
 ## Examples defying Silicon Valley’s obsolescence
 
-Compatibility verified on a Windows 7 64-bit rig with a CPU lacking SSE4 and AVX.
+Compatibility verified on Windows 7 64-bit with CPU lacking SSE4 and AVX.
 
 ### Apps built by authors
 
