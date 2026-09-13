@@ -21,7 +21,7 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 Compatibility verified on a Windows 7 64-bit laptop.  
 No SSE4, no AVX. Updated via [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) through January 2026.
 
-### Compiled by authors
+### Official builds
 
 * [7-Zip](https://7-zip.org/) <sub><img src="https://img.shields.io/sourceforge/dm/sevenzip?style=flat-square"></sub>
 * [AutoHotkey](https://github.com/autohotkey/autohotkey) <sub><img src="https://img.shields.io/github/stars/AutoHotkey/AutoHotkey?style=flat-square"></sub>
@@ -58,7 +58,7 @@ No SSE4, no AVX. Updated via [Simplix](https://www.majorgeeks.com/files/details/
 * [Zstandard](https://github.com/facebook/zstd) <sub><img src="https://img.shields.io/github/stars/facebook/zstd?style=flat-square"></sub>
 * [zpaqfranz](https://github.com/fcorbelli/zpaqfranz)
 
-### Compiled by community
+### Community ports
 
 * Age
 * Croc
