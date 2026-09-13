@@ -11,7 +11,7 @@ $$
 \end{array}
 $$
 
-## Apps built for Windows 7 by authors
+## Apps built by authors
 
 * [AutoHotkey](https://github.com/autohotkey/autohotkey) <sub><img src="https://img.shields.io/github/stars/AutoHotkey/AutoHotkey?style=flat-square"></sub>
 * [Everything](https://www.voidtools.com/)
@@ -25,7 +25,7 @@ $$
 * [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) <sub><img src="https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=flat-square"></sub>
 * [WavPack](https://github.com/dbry/wavpack)
 
-## Apps ported to Windows 7 by community
+## Apps ported by community
 
 * Go
 * [FFMPEG](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
