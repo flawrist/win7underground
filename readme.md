@@ -8,9 +8,9 @@ users pull down the blinds — their ad-blockers kill such peepers cold.
 <mark>Yet mechanics still sweat compiling and backporting for an exiled OS.  
 You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
-## Examples of apps defying Microsoft’s forced obsolescence
+## Apps defying Microsoft’s forced obsolescence
 
-### Built by authors
+### Examples built by authors
 
 * [7-Zip](https://7-zip.org/) <sub><img src="https://img.shields.io/sourceforge/dm/sevenzip?style=flat-square"></sub>
 * [AutoHotkey](https://github.com/autohotkey/autohotkey) <sub><img src="https://img.shields.io/github/stars/AutoHotkey/AutoHotkey?style=flat-square"></sub>
@@ -43,7 +43,7 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 * [Zstandard](https://github.com/facebook/zstd) <sub><img src="https://img.shields.io/github/stars/facebook/zstd?style=flat-square"></sub>
 * [ZPAQFranz](https://github.com/fcorbelli/zpaqfranz)
 
-### Ported by community
+### Examples ported by community
 
 * Go
 * [FFMPEG](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
