@@ -3,8 +3,8 @@
 Microsoft is a hegemon. It proclaims death by decree, not by dysfunction.  
 The mainstream lines up like cattle to revere the next leaking upgrade,  
 scorning the past as if chronology equals progress. But the mavericks?  
-They know software doesn’t turn like milk. They see the forced evictions —  
-machines built to ease the burden, stripped of their purpose but not their power.  
+They know software doesn’t sour like milk. They see the forced evictions. 
+Machines once built to ease the burden, stripped of purpose but never power.  
 <mark>Algorithms and alphabets don't expire just because the beast gets hungry.  
 A sturdy hammer keeps driving nails long after the warranty turns to dust.</mark>
 
