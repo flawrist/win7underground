@@ -7,8 +7,8 @@ $$
 \text{Take a pleasure in destruction of the very thing} & \qquad \text{Will me, thrill me} \\
 \text{That they tried to create} & \qquad \text{You can never kill me} \\
 \\
-\text{— Jamiroquai} & \qquad \text{— Michael Jackson} \\
-\hspace{1.3em} \text {Deeper underground (1998)} & \qquad \hspace{1.3em} \text{They don't care about us (1995)}
+\text{— Jamiroquai,} & \qquad \text{— Michael Jackson,} \\
+\quad\ \text {Deeper underground (1998)} & \qquad \quad\ \text{They don't care about us (1995)}
 \end{array}
 $$
 
