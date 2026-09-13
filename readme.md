@@ -32,7 +32,7 @@ $$
 * [FFMPEG](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
 * Python
 * [R3dfox](https://github.com/Eclipse-Community/r3dfox)
-* [Supermium](https://github.com/win32ss/supermium)
+* [Supermium](https://github.com/win32ss/supermium) <sub><img src="https://img.shields.io/github/stars/win32ss/supermium?style=flat-square"></sub>
 * [yt-dlp](https://github.com/nicolaasjan/yt-dlp)
 
 Last update: 2026-09-13
