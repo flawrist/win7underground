@@ -1,16 +1,12 @@
 # Windows 7. Underground
 
-$$
-\begin{array}{ll}
-\text{Some people with a pocket full of money} & \qquad \text{Beat me, hate me} \\
-\text{And an eye full of hate} & \qquad \text{You can never break me} \\
-\text{Take a pleasure in destruction of the very thing} & \qquad \text{Will me, thrill me} \\
-\text{That they tried to create} & \qquad \text{You can never kill me} \\
-\\
-\text{— Jamiroquai,} & \qquad \text{— Michael Jackson,} \\
-\quad\ \text {Deeper underground (1998)} & \qquad \quad\ \text{They don't care about us (1995)}
-\end{array}
-$$
+Nobody can trace for sure how many souls survive on Windows 7.  
+Statcounter stats rest on a JavaScript beacon pinned to a [million sites](https://gs.statcounter.com/faq#methodology).  
+Except heavy hitters don't feed it. No Amazon, no Facebook, no YouTube.  
+Even in the back alleys of the Internet where that beacon still bleeds,  
+users pull down the blinds — their ad-blockers kill such peepers cold.  
+Yet mechanics still sweat compiling and backporting for an exiled OS.  
+You don't spend unpaid nights throwing lifelines into a graveyard.  
 
 ## Apps built by authors
 
