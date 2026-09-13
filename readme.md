@@ -1,7 +1,6 @@
 # Windows 7. Underground
 
 $$
-\large
 \begin{array}{ll}
 \text{Some people with a pocket full of money} & \qquad \text{Beat me, hate me} \\
 \text{And an eye full of hate} & \qquad \text{You can never break me} \\
