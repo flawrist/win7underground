@@ -31,4 +31,6 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 * [Supermium](https://github.com/win32ss/supermium) <sub><img src="https://img.shields.io/github/stars/win32ss/supermium?style=flat-square"></sub>
 * [yt-dlp](https://github.com/nicolaasjan/yt-dlp)
 
-Last update: 2026-09-13
+##  
+
+<sub>Last update: 2026-09-13</sub>
