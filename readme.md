@@ -18,6 +18,8 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
 ## Examples defying Silicon Valley’s obsolescence
 
+Compatibility verified on a Windows 7 64-bit rig with a CPU lacking SSE4 and AVX.
+
 ### Apps built by authors
 
 * [7-Zip](https://7-zip.org/) <sub><img src="https://img.shields.io/sourceforge/dm/sevenzip?style=flat-square"></sub>
@@ -57,10 +59,16 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
 ### Apps ported by community
 
+* Age
+* Croc
+* DNSCrypt
+* Doggo
 * Go
 * [FFMPEG](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
 * Python
 * [r3dfox](https://github.com/Eclipse-Community/r3dfox)
+* Rclone
+* Restic
 * [Supermium](https://github.com/win32ss/supermium) <sub><img src="https://img.shields.io/github/stars/win32ss/supermium?style=flat-square"></sub>
 * [yt-dlp](https://github.com/nicolaasjan/yt-dlp)
 
