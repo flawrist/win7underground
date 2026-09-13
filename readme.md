@@ -58,4 +58,4 @@ You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
 ##  
 
-<sub>Last update: 2026-09-13</sub>
+<sub>Curated by Aleksandr [Flawrist](https://github.com/flawrist). Last update: 2026-09-13</sub>
