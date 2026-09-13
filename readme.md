@@ -8,7 +8,7 @@ $$
 \text{That they tried to create} & \qquad \text{You can never kill me} \\
 \\
 \text{— Jamiroquai} & \qquad \text{— Michael Jackson} \\
-\qquad \text {Deeper underground (1998)} & \qquad \qquad \text{They don't care about us (1995)}
+\hspace{1.3em} \text {Deeper underground (1998)} & \qquad \hspace{1.3em} \text{They don't care about us (1995)}
 \end{array}
 $$
 
