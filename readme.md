@@ -77,4 +77,4 @@ No SSE4, no AVX. Updated via [Simplix](https://www.majorgeeks.com/files/details/
 
 ##  
 
-<sub>Curated by [Aleksandr Flawrist](https://github.com/flawrist). Last update: 2026-09-13.</sub>
+<sub>Writtena & curated by [Aleksandr Flawrist](https://github.com/flawrist). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Last update: 2026-09-14.</sub>
