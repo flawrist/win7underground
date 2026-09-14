@@ -1,18 +1,18 @@
 # Windows 7. Underground
 
-Microsoft is a hegemon. It proclaims death by decree, not by dysfunction.  
+Microsoft is a hegemon. It proclaims death by decree, not dysfunction.  
 The mainstream lines up like cattle to revere the next leaking upgrade,  
-scorning the past as if chronology equals progress. But the mavericks?  
-They know software doesn’t sour like milk. They see the forced evictions. 
-Machines once built to ease the burden, stripped of purpose but never power.  
+scorning the past as if chronology equals progress. And the mavericks?  
+They know software doesn’t sour like milk. They see the forced evictions —  
+machines once built to ease the burden, stripped of purpose but not power.  
 <mark>Algorithms and alphabets don't expire just because the beast gets hungry.  
-A sturdy hammer keeps driving nails long after the warranty turns to dust.</mark>
+A sturdy hammer drives nails long after the warranty turns to dust.</mark>
 
 Nobody can trace for sure how many souls survive on Windows 7.  
 OS usage stats rest on a JavaScript beacon pinned to a [million sites](https://gs.statcounter.com/faq#methodology).  
 Except heavy hitters don't feed it. No Amazon, no Facebook, no YouTube.  
 Even in the back alleys of the Internet where that beacon still bleeds,  
-users pull down the blinds — their ad-blockers kill such peepers cold.  
+users pull down the blinds — their ad-blockers kill the peepers cold.  
 <mark>Yet mechanics still sweat compiling and backporting for an exiled OS.  
 You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
