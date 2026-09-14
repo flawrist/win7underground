@@ -16,7 +16,7 @@ Even in the back alleys of the Internet where that beacon still bleeds,
 users pull down the blinds — their ad-blockers kill the peepers cold.  
 Yet mechanics still sweat, compiling and backporting for the exiled.  
 
-You don't spend unpaid nights throwing lifelines into a graveyard.
+<mark>You don't spend unpaid nights throwing lifelines into a graveyard.</mark>
 
 ## Apps refusing to die on Microsoft’s schedule
 
