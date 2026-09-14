@@ -14,7 +14,7 @@ The OS usage stats rest on a JavaScript beacon pinned to a [million sites](https
 Except heavy hitters don't feed it. No Amazon, no Facebook, no YouTube.  
 Even in the back alleys of the Internet where that beacon still bleeds,  
 users pull down the blinds — their ad-blockers kill the peepers cold.  
-Yet mechanics still sweat compiling and backporting for an exiled OS.  
+Yet mechanics still sweat, compiling and backporting for the exiled.  
 
 You don't spend unpaid nights throwing lifelines into a graveyard.
 
