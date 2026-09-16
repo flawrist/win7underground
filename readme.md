@@ -24,7 +24,7 @@ Yet mechanics still sweat, compiling and backporting for the exiled.
 
 ## Apps refusing to die on Microsoft’s schedule
 
-Compatibility verified on an IBM x61 running Windows 7 64-bit.  
+Compatibility verified on IBM x61 running Windows 7 64-bit.  
 No SSE4, no AVX. Patched via [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) through January 2026.
 
 ### Official builds
