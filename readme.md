@@ -10,7 +10,7 @@ The mainstream lines up like cattle to revere the next leaking upgrade,
 scorning the past as if chronology equaled progress. But the mavericks?  
 They know software doesn’t sour like milk. They see the forced evictions —  
 machines built to ease the burden, stripped of purpose but not of power.  
-Algorithms and alphabets don't expire just because the beast gets hungry.  
+Logic and silicon don't expire just because the beast gets hungry.  
 A sturdy hammer drives nails long after the warranty turns to dust.
 
 Nobody can trace for sure how many souls still survive on Windows 7.  
