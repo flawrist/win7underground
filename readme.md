@@ -13,7 +13,7 @@ machines built to ease the burden, stripped of purpose but not of power.
 Logic and silicon don't expire just because the beast gets hungry.  
 A sturdy hammer drives nails long after the warranty turns to dust.
 
-Nobody can trace for sure how many souls still survive on Windows 7.  
+Nobody can trace for sure how many souls survive on Windows 7.  
 The OS usage stats rest on a JavaScript beacon pinned to a [million sites](https://gs.statcounter.com/faq#methodology).  
 Except heavy hitters don't feed it. No Amazon, no Facebook, no YouTube.  
 Even in the back alleys of the Internet where that beacon still bleeds,  
