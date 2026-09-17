@@ -67,21 +67,21 @@ No SSE4, no AVX. Patched via [Simplix](https://www.majorgeeks.com/files/details/
 
 ### Community ports
 
-* Age*
-* Croc*
-* DNSCrypt*
-* Doggo*
-* FFMPEG by [autodidact](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
-* Go by [thongtech](https://github.com/thongtech/go-legacy-win7), [XTLS](https://github.com/XTLS/go-win7)
-* Node by [vladimir-andreevich](https://github.com/vladimir-andreevich/node.js-windows-7)
-* Python by [adang1345](https://github.com/adang1345/PythonVista), [Alex313031](https://github.com/Alex313031/Python-Win7), [vladimir-andreevich](https://github.com/vladimir-andreevich/cpython-windows-vista-and-7)
-* [r3dfox](https://github.com/Eclipse-Community/r3dfox) by Eclipse
-* Rclone*
-* Restic*
-* [Supermium](https://github.com/win32ss/supermium) by Shane Fournier <sub><img src="https://img.shields.io/github/stars/win32ss/supermium?style=flat-square"></sub>
-* yt-dlp by [nicolaasjan](https://github.com/nicolaasjan/yt-dlp)
+- Age\*
+- Croc\*
+- DNSCrypt\*
+- Doggo\*
+- FFMPEG by [autodidact](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
+- Go by [thongtech](https://github.com/thongtech/go-legacy-win7), [XTLS](https://github.com/XTLS/go-win7)
+- Node by [vladimir-andreevich](https://github.com/vladimir-andreevich/node.js-windows-7)
+- Python by [adang1345](https://github.com/adang1345/PythonVista), [Alex313031](https://github.com/Alex313031/Python-Win7), [vladimir-andreevich](https://github.com/vladimir-andreevich/cpython-windows-vista-and-7)
+- [r3dfox](https://github.com/Eclipse-Community/r3dfox) by Eclipse
+- Rclone\*
+- Restic\*
+- [Supermium](https://github.com/win32ss/supermium) by Shane Fournier <sub><img src="https://img.shields.io/github/stars/win32ss/supermium?style=flat-square"></sub>
+- yt-dlp by [nicolaasjan](https://github.com/nicolaasjan/yt-dlp)
 
-* Maintained by flawrist. Binaries are being re-hosted, links coming soon.
+\* Maintained by flawrist. Binaries are being re-hosted, links coming soon.
 
 ##  
 
