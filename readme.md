@@ -70,13 +70,14 @@ No SSE4, no AVX. Patched via [Simplix](https://www.majorgeeks.com/files/details/
 * Croc
 * DNSCrypt
 * Doggo
-* [FFMPEG](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
+* [FFMPEG](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7) by autodidact
 * Go
-* Python
-* [r3dfox](https://github.com/Eclipse-Community/r3dfox)
+* Node
+* Python by [adang1345](https://github.com/adang1345/PythonVista), [Alex313031](https://github.com/Alex313031/Python-Win7), [vladimir-andreevich](https://github.com/vladimir-andreevich/cpython-windows-vista-and-7)
+* [r3dfox](https://github.com/Eclipse-Community/r3dfox) by Eclipse
 * Rclone
 * Restic
-* [Supermium](https://github.com/win32ss/supermium) <sub><img src="https://img.shields.io/github/stars/win32ss/supermium?style=flat-square"></sub>
+* [Supermium](https://github.com/win32ss/supermium) by Shane Fournier <sub><img src="https://img.shields.io/github/stars/win32ss/supermium?style=flat-square"></sub>
 * [yt-dlp](https://github.com/nicolaasjan/yt-dlp)
 
 ##  
