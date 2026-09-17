@@ -58,6 +58,7 @@ No SSE4, no AVX. Patched via [Simplix](https://www.majorgeeks.com/files/details/
 * [ugrep](https://ugrep.com/) <sub><img src="https://img.shields.io/github/stars/Genivia/ugrep?style=flat-square"></sub>
 * [VLC Media Player](https://www.videolan.org/) <sub><img src="https://img.shields.io/github/stars/videolan/vlc?style=flat-square"></sub>
 * [WavPack](https://github.com/dbry/wavpack)
+* [WinFSP](https://github.com/winfsp/winfsp) <sub><img src="https://img.shields.io/github/stars/winfsp/winfsp?style=flat-square"></sub>
 * [WinRAR](https://www.win-rar.com/)
 * [WinSCP](https://winscp.net/eng/index.php) <sub><img src="https://img.shields.io/sourceforge/dm/winscp?style=flat-square"></sub>
 * [xxHash](https://xxhash.com/) <sub><img src="https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square"></sub>
@@ -66,20 +67,20 @@ No SSE4, no AVX. Patched via [Simplix](https://www.majorgeeks.com/files/details/
 
 ### Community ports
 
-* Age
-* Croc
-* DNSCrypt
-* Doggo
-* [FFMPEG](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7) by autodidact
+* Age by flawrist
+* Croc by flawrist
+* DNSCrypt by flawrist
+* Doggo by flawrist
+* FFMPEG by [autodidact](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7)
 * Go
 * Node
 * Python by [adang1345](https://github.com/adang1345/PythonVista), [Alex313031](https://github.com/Alex313031/Python-Win7), [vladimir-andreevich](https://github.com/vladimir-andreevich/cpython-windows-vista-and-7)
 * [r3dfox](https://github.com/Eclipse-Community/r3dfox) by Eclipse
-* Rclone
-* Restic
+* Rclone by flawrist
+* Restic by flawrist
 * [Supermium](https://github.com/win32ss/supermium) by Shane Fournier <sub><img src="https://img.shields.io/github/stars/win32ss/supermium?style=flat-square"></sub>
-* [yt-dlp](https://github.com/nicolaasjan/yt-dlp)
+* yt-dlp by [nicolaasjan](https://github.com/nicolaasjan/yt-dlp)
 
 ##  
 
-<sub>© 2026 Aleksandr Flawrist. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Last update: 2026-09-15.</sub>
+<sub>© 2026 Aleksandr Flawrist. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Last update: 2026-09-17.</sub>
