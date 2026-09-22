@@ -40,6 +40,7 @@ No SSE4, no AVX. Patched via [Simplix](https://www.majorgeeks.com/files/details/
 * [FileZilla](https://filezilla-project.org/) <sub><img src="https://img.shields.io/sourceforge/dm/filezilla?style=flat-square"></sub>
 * [FLAC](https://github.com/xiph/flac) <sub><img src="https://img.shields.io/github/stars/xiph/flac?style=flat-square"></sub>
 * [Foobar2000](https://www.foobar2000.org/)
+* [GnuPG](https://gnupg.org/ftp/gcrypt/binary/)
 * [HWiNFO](https://www.hwinfo.com/) <sub><img src="https://img.shields.io/sourceforge/dm/hwinfo?style=flat-square"></sub>
 * [IrfanView](https://www.irfanview.com/)
 * [KeePass](https://keepass.info/) <sub><img src="https://img.shields.io/sourceforge/dm/keepass?style=flat-square"></sub>
