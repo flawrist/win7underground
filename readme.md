@@ -10,7 +10,7 @@ The mainstream lines up like cattle to revere the next leaking upgrade,
 scorning the past as if chronology equaled progress. But the mavericks?  
 They know software doesn’t sour like milk. They see engineered decay —  
 machines built to ease the burden, stripped of purpose but not of power.  
-Logic and silicon don't expire just because the beast gets hungry.  
+Logic and silicon do NOT expire just because the beast gets hungry.  
 A sturdy hammer drives nails long after the warranty turns to dust.
 
 Nobody can trace for sure how many souls survive on Windows 7.  
