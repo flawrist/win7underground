@@ -83,6 +83,20 @@ No SSE4, no AVX. Patched via [Simplix](https://www.majorgeeks.com/files/details/
 
 <sub>\* Maintained by flawrist. Binaries are being re-hosted, links coming soon.</sub>
 
+<!--
+         ▄▄████▄▄
+  █ ▄ ▄▄██▀▄  ▄▀██
+  ▄ ▀▀▀▀██ ▀  ▀ ██
+  ▀ █▄████ ▄  ▄ ██
+  █ ▄ ▄▄██  ▀▀  ██
+  ▄ ▀▀▀▀██▄████▄██
+  ▀ █▄███▀▀    ▀▀█
+
+VxKex assisted
+VxKex bridged
+Launched via VxKex
+-->
+
 ##  
 
 <sub>© 2026 Aleksandr Flawrist. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Last update: 2026-09-17.</sub>
