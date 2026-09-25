@@ -51,6 +51,7 @@ No SSE4, no AVX. Patched via [Simplix](https://www.majorgeeks.com/files/details/
 * [NirSoft](https://www.nirsoft.net/) utilities
 * [Notepad++](https://notepad-plus-plus.org/) <sub><img src="https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=flat-square"></sub>
 * [Pandoc](https://pandoc.org/) <sub><img src="https://img.shields.io/github/stars/jgm/pandoc?style=flat-square"></sub>
+* [Password Safe](https://pwsafe.org/) <sub><img src="https://img.shields.io/sourceforge/dm/passwordsafe?style=flat-square"></sub>
 * [SQLite](https://sqlite.org/)
 * [Sublime Text](https://www.sublimetext.com/)
 * [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf) <sub><img src="https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf?style=flat-square"></sub>
@@ -85,14 +86,6 @@ No SSE4, no AVX. Patched via [Simplix](https://www.majorgeeks.com/files/details/
 <sub>\* Maintained by flawrist. Binaries are being re-hosted, links coming soon.</sub>
 
 <!--
-         ▄▄████▄▄
-  █ ▄ ▄▄██▀▄  ▄▀██
-  ▄ ▀▀▀▀██ ▀  ▀ ██
-  ▀ █▄████ ▄  ▄ ██
-  █ ▄ ▄▄██  ▀▀  ██
-  ▄ ▀▀▀▀██▄████▄██
-  ▀ █▄███▀▀    ▀▀█
-
 VxKex assisted
 VxKex bridged
 Launched via VxKex
