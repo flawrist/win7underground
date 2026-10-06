@@ -1,5 +1,5 @@
 <picture>
-<img src="https://github.com/user-attachments/assets/6f2524db-08ca-4f7b-952d-e09d49d9c703">
+<img src="/header.png">
 </picture>
 
 # Windows 7. Exiled, not expired
